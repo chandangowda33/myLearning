@@ -1,3 +1,8 @@
+Event Management web app (currently only supports on mobile)-events-bb03d.web.app
+GitHub links:
+	Frontend:https://github.com/chandangowda33/Events
+	Backend:https://github.com/chandangowda33/eventBackend
+
 NumeroPedia app link-https://github.com/chandangowda33/NumeroPedia.git
 Live app link-https://numeropedia.netlify.app/home
 
@@ -8,8 +13,3 @@ Omnifood HTML page link-https://github.com/chandangowda33/Omnifood.git
 Live app link-https://omnifood-chandangowda.netlify.app
 
 FlexZone HTML page link-https://github.com/chandangowda33/FlexZone.git
-
-
-
-
-
